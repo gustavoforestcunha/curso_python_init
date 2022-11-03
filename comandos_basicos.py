@@ -7,6 +7,4 @@ print('7'+'4')
 nome = input('Qual seu nome?')
 idade = input('Qual sua idade?')
 
-print(nome,idade)
-
-
+print('Seja muito bem vindo,', nome)

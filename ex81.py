@@ -7,8 +7,8 @@ while resp in 'Ss':
 print('programa encerrado')
 print(f'Você digitou os valores {valores}')
 print(f'Essa lista tem {len(valores)} valores.')
-#print('Os valores ao inverso são: {}'.format(valores.sort(reverse=True)))
-print(valores.sort(reverse=True))
+valores.sort(reverse=True)
+print(f'Os valores ao inverso são: {valores}')
 if 5 in valores:
     print('o valor 5 faz parte da lista')
 else:

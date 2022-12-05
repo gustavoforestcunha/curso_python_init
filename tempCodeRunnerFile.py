@@ -1,2 +1,2 @@
 
-            'livro', 34.9)
+        print(f'Erro! Não existe jogador com codigo {busca}!')
